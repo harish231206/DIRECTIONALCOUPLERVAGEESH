@@ -4,7 +4,7 @@
 To analyze the performance of a Directional Coupler by determining its key parameters:
 
 Coupling Factor
-Insertion Loss 
+Insertion Loss
 Isolation
 Directivity
 📚 Theory
